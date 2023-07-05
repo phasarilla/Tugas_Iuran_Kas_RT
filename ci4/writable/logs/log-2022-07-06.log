@@ -1,0 +1,47 @@
+CRITICAL - 2022-07-06 11:12:32 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Warg...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Warg...')
+#3 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\app\Controllers\warga.php(10): spl_autoload_call('App\\Models\\Warg...')
+#4 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(832): App\Controllers\warga->index()
+#5 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#6 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-07-06 11:16:25 --> Undefined variable: getwarga
+#0 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\app\Views\warga_view.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Common.php(1089): CodeIgniter\View\View->render('warga_view', Array, true)
+#4 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\app\Controllers\warga.php(52): view('warga_view', Array)
+#5 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(832): App\Controllers\warga->edit('1')
+#6 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#7 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-07-06 11:18:15 --> Undefined variable: getwarga
+#0 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\app\Views\warga_view.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Common.php(1089): CodeIgniter\View\View->render('warga_view', Array, true)
+#4 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\app\Controllers\warga.php(52): view('warga_view', Array)
+#5 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(832): App\Controllers\warga->edit('4')
+#6 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#7 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-07-06 11:19:45 --> Undefined variable: getwarga
+#0 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\app\Views\warga_view.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Common.php(1089): CodeIgniter\View\View->render('warga_view', Array, true)
+#4 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\app\Controllers\warga.php(52): view('warga_view', Array)
+#5 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(832): App\Controllers\warga->edit('1')
+#6 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#7 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\lab12_Iuran_KAS_RT_php_ci\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
