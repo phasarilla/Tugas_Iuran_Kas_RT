@@ -7,10 +7,12 @@ PEMROGRAMAN WEB<br>
 TEKNIK INFORMATIKA<br>
 UNIVERSITAS PELITA BANGSA<br>
 
-| NAMA :| Dutha Khris Phasarilla |
-:| Sri Kartini |
-| NIM :| 312110611 |
-:| 312110435 |
+| NAMA :| Dutha Khris Phasarilla : 312110611 |
+:| Sri Kartini : 312110435|
+:| Afra Nesya Apriyanthi : 312110614 |
+:| Farida Prasetyaning Rahayu : 312110605 |
+:| Viena Dwi Putri Maulina : 312110469 |
+
 | KELAS :| TI.21.C1 |
 | DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
 
