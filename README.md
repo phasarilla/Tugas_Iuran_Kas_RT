@@ -27,7 +27,7 @@ UNIVERSITAS PELITA BANGSA<br>
 
 link demo :
 
-link google drive/youtube : https://youtu.be/Popoj4MtXjI
+link google drive/youtube : [https://youtu.be/Popoj4MtXjI](https://youtu.be/mvS7wlPBOCY)
 
 <hr>
   
